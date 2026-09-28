@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Voice Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 175,
+      "bodyTextHash": "82b8d407afec22cb58ce944880aadc0e2a459a5326550b07180a677675c5fc36",
+      "bodyTextPrefix": "PRIVATE DESK Voice Lab Measure how a leading voice writes. Mix t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Voice Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 175,
+      "bodyTextHash": "82b8d407afec22cb58ce944880aadc0e2a459a5326550b07180a677675c5fc36",
+      "bodyTextPrefix": "PRIVATE DESK Voice Lab Measure how a leading voice writes. Mix t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,1 @@
+import{i as e,j as t}from"./preload-helper-CzghLyYo.js";import{r as n}from"./input-CCs3L1PR.js";var r=e({method:`GET`}).middleware([n]).handler(t(`d704364dd7d6d163b6332e15d1e89d2b46281cfffc6271b7f5126be372ff95a5`)),i=e({method:`POST`}).middleware([n]).handler(t(`6366da7806ec418ab65c3a8927d5f64d1d03be48ef802d0d7c6605e28dc24bac`));export{i as n,r as t};
